@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# test
-yeah
+# About me
+![DespawnedDiamond GitHub Banner](https://github.com/despawnedd/despawnedd/blob/main/github_banner.png)
