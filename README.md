@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 # About me
-![DespawnedDiamond GitHub Banner](https://github.com/despawnedd/despawnedd/blob/main/github_banner.png)
+To be added soon.
