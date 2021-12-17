@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 # About me
-To be added soon.
+To be added ~~soon~~ _when i feel like it_
